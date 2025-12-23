@@ -1,4 +1,4 @@
-# Password Generator in python
+# Password Generator in python and c++
 
 This program generates random passwords based on user input.
 
